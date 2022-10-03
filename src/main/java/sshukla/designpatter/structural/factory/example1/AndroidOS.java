@@ -1,4 +1,4 @@
-package sshukla.designpatter.structural.factory;
+package sshukla.designpatter.structural.factory.example1;
 
 /**
  * @author 'Seemant Shukla' on '03/10/2022'
