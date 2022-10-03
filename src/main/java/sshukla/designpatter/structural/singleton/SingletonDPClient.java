@@ -1,4 +1,4 @@
-package sshukla.designpatter.structural;
+package sshukla.designpatter.structural.singleton;
 
 import sshukla.designpatter.structural.singleton.SingletonDP;
 
@@ -8,7 +8,7 @@ import java.io.*;
  * @author 'Seemant Shukla' on '03/10/2022'
  */
 
-public class StructuralDPClient {
+public class SingletonDPClient {
 
     public static void main(String[] args) throws CloneNotSupportedException {
         System.out.println("*****************");
