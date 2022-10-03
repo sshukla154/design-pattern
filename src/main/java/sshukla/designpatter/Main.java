@@ -1,4 +1,4 @@
-package org.example;
+package sshukla.designpatter;
 
 /**
  * @author 'Seemant Shukla' on '${DATE}'
