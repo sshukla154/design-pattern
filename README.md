@@ -16,10 +16,11 @@
 |                        |                           | Interpreter             |
 |                        |                           | Memento                 |
 
-1. Singleton Design Pattern: Create only one object whenever asked.
+1. `Singleton Design Pattern`: Create only one object whenever asked.
 
-2. Factory Design Pattern: Create output depending on input. Consider a class/interface has many subclasses. So
+2. `Factory Design Pattern`: Create output depending on input. Consider a class/interface has many subclasses. So
    depending upon the input we need to get one instance, this is Factory design patter.
    In this we don't need client to see the implementation.
 
-3. 
+3. `Builder Design Pattern`: This pattern used to create object made from a bunch of other objects which is independent
+   of main object.
